@@ -2,11 +2,11 @@
   "cacheBootResources": false,
   "config": [ ],
   "debugBuild": true,
-  "entryAssembly": "MarcoParenzan",
+  "entryAssembly": "WebsiteGitHubIo",
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "MarcoParenzan.dll": "sha256-MsgYuFi+25u1jWQQqju8ANP8KYT1bZdY1WjNNYIaPKU=",
+      "WebsiteGitHubIo.dll": "sha256-dozoypZrlkh4RhXhIoZHyvwEumffW9Ho2\/NET\/VIp5U=",
       "Microsoft.Extensions.DependencyInjection.Abstractions.dll": "sha256-ycn\/UHLnjC77BNvsurP4mkuYP8oud1oVyfSSlZKMymc=",
       "netstandard.dll": "sha256-\/zcPVM75OAY+joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=",
       "System.Xml.Linq.dll": "sha256-7IH27NllkTB1CBJl1hvoUpA0xV1xxTL6TwnVPlCzYP0=",
@@ -59,7 +59,7 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-ly0M2c3xTIQTThpFK82FfNKJVWZ\/mdm+FkwD54DHwSQ="
     },
     "pdb": {
-      "MarcoParenzan.pdb": "sha256-isPLHHgNHGNm23bFUWhigzaFQaSpX\/tbSKZidJiLVL4="
+      "WebsiteGitHubIo.pdb": "sha256-tRMjJQ3HWQVITv461GSv02iRqruc4ICyZs90QBGYDr0="
     },
     "runtime": {
       "dotnet.3.2.0-preview5.20216.1.js": "sha256-gww0bLqGo0LNAahNiZcdEk\/kmDKmSFAFGtY8LL0fBcY=",
